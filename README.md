@@ -243,4 +243,4 @@ This repository serves as the official landing page for Clair Obscur: Expedition
 **Get the most recent version of Clair Obscur: Expedition 33 today!**
 
 ---
-**Last updated:** 2026-10-07 01:59:43 UTC
+**Last updated:** 2026-10-07 08:30:02 UTC
